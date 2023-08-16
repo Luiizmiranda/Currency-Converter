@@ -6,5 +6,5 @@ Here we have project screenshot :
 ![co](https://github.com/Luiizmiranda/Currency-Converter/assets/113154372/474c59d3-2f98-4d0a-a99a-0b3952b94477)
 
 #
-<a href=" https://luiizmiranda.github.io/Currency-Converter/">Click here to open the website</a>
-<a href="https://luiizmiranda.github.io/Currency-Converter/"> Luizportfolio click aqui</a>
+
+<a href="https://luiizmiranda.github.io/Currency-Converter/"> Click here to open the website</a>
